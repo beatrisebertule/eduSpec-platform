@@ -1,0 +1,11 @@
+{
+  "title": "Organic Chemistry: Test Nr. 1",
+  "description": "Draw a molecule!",
+  "difficulty": "Easy",
+  "questions": [
+    {
+        "question": "Draw the formula of etahnol!",
+        "answer": "CCO"
+    }
+  ]
+}

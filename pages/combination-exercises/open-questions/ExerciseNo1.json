@@ -1,0 +1,21 @@
+{
+  "title": "Organic Chemistry: Test Nr. 1",
+  "description": "Test your knowledge!",
+  "questions": [
+    {
+      "question": "How many distinct structural isomers exist for butane (C4H10)?",
+      "options": [0, 2, 6, 12],
+      "answer": 2
+    },
+    {
+      "question": "How many hydrogen atoms are present in one molecule of cyclohexane (C6H12)?",
+      "options": [0, 2, 6, 12],
+      "answer": 12
+    },
+    {
+      "question": "How many carbon atoms are there in one molecule of 2-methylpentane (C6H14)?",
+      "options": [0, 2, 6, 12],
+      "answer": 6
+    }
+  ]
+}

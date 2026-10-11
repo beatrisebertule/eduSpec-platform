@@ -1,0 +1,21 @@
+{
+  "title": "Organic Chemistry: Test Nr. 3",
+  "description": "Test your knowledge!",
+  "questions": [
+    {
+      "question": "Which of the following compounds contains a carbon–carbon double bond?",
+      "options": ["A) Ethene", "B) Ethane", "C) Methanol", "D) Propane"],
+      "answer": "A) Ethene"
+    },
+    {
+      "question": "Which functional group is present in ethanol?",
+      "options": ["A) Aldehyde", "B) Ketone", "C) Hydroxyl", "D) Carboxyl"],
+      "answer": "C) Hydroxyl"
+    },
+    {
+      "question": "What is the molecular formula of methane?",
+      "options": ["A) CH4", "B) C2H6", "C) CO2", "D) H2O"],
+      "answer": "A) CH4"
+    }
+  ]
+}

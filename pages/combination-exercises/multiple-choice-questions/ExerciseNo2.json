@@ -1,0 +1,21 @@
+{
+  "title": "Organic Chemistry: Test Nr. 2",
+  "description": "Test your knowledge!",
+  "questions": [
+    {
+      "question": "Which of the following compounds contains a carbon–carbon triple bond?",
+      "options": ["A) Ethyne", "B) Ethene", "C) Propane", "D) Butanol"],
+      "answer": "A) Ethyne"
+    },
+    {
+      "question": "Which functional group is present in acetic acid?",
+      "options": ["A) Hydroxyl", "B) Carboxyl", "C) Aldehyde", "D) Amine"],
+      "answer": "B) Carboxyl"
+    },
+    {
+      "question": "What is the molecular formula of carbon dioxide?",
+      "options": ["A) CO", "B) CO2", "C) C2O", "D) CH4"],
+      "answer": "B) CO2"
+    }
+  ]
+}
