@@ -1,1 +1,0 @@
-# eduSpec-platform
